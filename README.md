@@ -193,8 +193,6 @@ For issues or suggestions, please open an issue in the repository.
 
 ## References
 
-- [Microsoft Intune Documentation](https://learn.microsoft.com/en-us/intune/)
-- [Configure Intune Company Portal Branding](https://www.prajwaldesai.com/configure-intune-company-portal-branding/)
 - [How To Set Application Logo In Intune](https://www.prajwaldesai.com/how-to-set-application-logo-in-intune/)
 
 ---
